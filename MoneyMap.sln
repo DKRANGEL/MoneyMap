@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyMapAPI", "MoneyMapAPI\MoneyMapAPI.csproj", "{1FFBB91E-9795-4078-9735-D30BC81B1FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyMapAPI.Testes", "MoneyMapAPI.Testes\MoneyMapAPI.Testes.csproj", "{0190FA63-D200-41C9-B376-7AEE07B71779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFBB91E-9795-4078-9735-D30BC81B1FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFBB91E-9795-4078-9735-D30BC81B1FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFBB91E-9795-4078-9735-D30BC81B1FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFBB91E-9795-4078-9735-D30BC81B1FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0190FA63-D200-41C9-B376-7AEE07B71779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0190FA63-D200-41C9-B376-7AEE07B71779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0190FA63-D200-41C9-B376-7AEE07B71779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0190FA63-D200-41C9-B376-7AEE07B71779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
